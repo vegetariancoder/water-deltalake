@@ -10,6 +10,10 @@
 - Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence. 
 - Business analysts, data engineers, data scientists, and decision makers access the data through business intelligence (BI) tools, SQL clients, and other analytics applications.
 
-| Attempt | #1  | #2  |
+|  | Data Lake  | Data Warehouse  |
 | :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| Data Structure | Raw | Processed |
+| Purpose of Data | Not yet determined | Currently in use |
+| Users | Data Engineers, Data Scientist | Business professionals |
+| Accessibility | Highly accessible and quick to update | More complicated and costly to make changes |
+
